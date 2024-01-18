@@ -1,16 +1,15 @@
-### Hi there 👋
+# About Me:
+Experienced JavaScript Engineer adept in designing, development, debugging, testing and maintenance of web applications. Equipped with a diverse and advanced technical skill-set. Able to effectively self-manage as well as collaborate in a team.
 
-<!--
-**denisKovalyov/denisKovalyov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-kovalyov-8964a213a/)
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+ ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)<br>
+ ![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=Next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![WebComponents](https://img.shields.io/badge/Web%20Components-000000?style=plastic&logo=webcomponents.org) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=plastic&logo=apollo-graphql) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white)<br>
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)<br>
+![Git](https://img.shields.io/badge/Git%20Bash-ffffff.svg?style=plastic&logo=git&logoColor=F22F46) ![Twilio](https://img.shields.io/badge/Twilio-%2320232a.svg?style=plastic&logo=twilio&logoColor=F22F46) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-03A9F4.svg?style=plastic&logo=webpack&logoColor=black) ![Jest](https://img.shields.io/badge/Jest-99425B.svg?style=plastic&logo=jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-ffffff.svg?style=plastic&logo=testing-library&logoColor=red) ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://www.codewars.com/users/denisKovalyov/badges/micro)](https://www.codewars.com/users/denisKovalyov) <br>
+[![](https://visitcount.itsvg.in/api?id=denisKovalyov&icon=0&color=0)](https://visitcount.itsvg.in)
