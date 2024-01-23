@@ -1,7 +1,7 @@
 # About Me:
 Experienced JavaScript Engineer adept in designing, development, debugging, testing and maintenance of web applications. Equipped with a diverse and advanced technical skill-set. Able to effectively self-manage as well as collaborate in a team.
 
-#### 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-kovalyov-8964a213a/)
 
 # 💻 Tech Stack:
