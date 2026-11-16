@@ -1,5 +1,7 @@
 # About Me:
-Experienced JavaScript Engineer adept in designing, development, debugging, testing and maintenance of web applications. Equipped with a diverse and advanced technical skill-set. Able to effectively self-manage as well as collaborate in a team.
+Experienced Full-Stack JavaScript/TypeScript Developer with 10+ years of commercial experience
+building and maintaining web applications. Skilled in designing scalable solutions across frontend
+and backend, with a strong focus on code quality, maintainability, and performance.
 
 ### 🌐 Socials:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/denys-kovalyov-8964a213a/)
